@@ -2,16 +2,28 @@
 
 # Introdução:
 
-A introdução deve captar a atenção do leitor e fornecer uma visão geral do manifesto. É aqui que você apresenta a ideia, o movimento ou a causa que está sendo defendida.
+À medida que o tempo avança, a humanidade testemunha um crescente acúmulo de capital e aumento da produtividade. No entanto, apesar das melhorias graduais, é alarmante constatar que cerca de um quarto da população mundial ainda vive em condições de extrema miséria. O que está faltando para mudar essa realidade? Será que nos falta alguma tecnologia ou avanço científico? A resposta, sem dúvida, reside em nossa falta de organização, vontade política e engajamento social.
 
-# Contexto e Motivação: 
-Nesta seção, explique o contexto em que seu manifesto se baseia. Descreva os problemas ou questões que motivaram a criação do manifesto e por que é importante abordá-los.
+Neste manifesto, buscamos explorar os valores, princípios e ações necessários para construir uma alternativa real dentro do sistema econômico e político vigente. Acreditamos firmemente que, ao propagar uma cultura de cooperação, solidariedade, de consumo consciente, transparência, equidade, poderemos ter uma vida com mais harmonia, prosperidade, felicidade e saúde física e mental.
 
-# Princípios ou Valores: 
-Liste os princípios ou valores fundamentais que sustentam sua ideologia ou causa. Esses princípios servirão como base para as ações e posições defendidas ao longo do manifesto.
+Convidamos você a se juntar a nós nessa jornada de transformação e construção de uma sociedade mais justa, empática e sustentável. Juntos, podemos contribuir para mudar a realidade, diminuir o ódio, a desigualdade e o hiperconsumo. Acreditamos que cada pequeno passo em direção a essa visão coletiva é fundamental, e encorajamos você a fazer parte dessa mudança positiva. Junte-se a nós!
+
+# Valores: 
+- Aperfeiçoamento individual e coletivo
+- Empatia
+- Cooperação
+- Ciência
+- Liberdade
+- Humildade
+- Equidade e justiça social
+
+# Contexto
+
+![image](https://github.com/Neimar-br/nova_ideologia/assets/134176319/d8ad9852-17fd-4c7d-aee7-2e635bc7a72a)
+
 
 # Objetivos e Propósitos:
-Descreva claramente os objetivos e propósitos do manifesto. Liste as metas e mudanças que você deseja alcançar e como eles estão alinhados com os princípios estabelecidos anteriormente.
+Nosso objetivo é estabelecer uma comunicação poderosa que seja capaz de desintoxicando as pessoas de ideologias de ódio, do hiperconsumo e da concentração de poder. Buscamos atrair mais pessoas para nossos grupos, para assim aumentar nosso alcance e o desenvolvimento dos nossos projetos.
 
 # Ações e Compromissos: 
 Esta seção é dedicada às ações práticas que você propõe para alcançar os objetivos do manifesto. Apresente ideias, projetos ou iniciativas concretas que possam ser implementadas para promover a mudança.
