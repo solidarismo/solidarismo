@@ -23,7 +23,21 @@ Convidamos você a se juntar a nós nessa jornada de transformação e construç
 
 
 # Objetivos e Propósitos:
-Nosso objetivo é estabelecer uma comunicação poderosa que seja capaz de desintoxicando as pessoas de ideologias de ódio, do hiperconsumo e da concentração de poder. Buscamos atrair mais pessoas para nossos grupos, para assim aumentar nosso alcance e o desenvolvimento dos nossos projetos.
+Nosso objetivo é estabelecer uma comunicação poderosa que seja capaz de desintoxicar as pessoas de ideologias de ódio, do hiperconsumo e da concentração de poder. Buscamos atrair mais pessoas para nossos grupos, assim aumentando nosso alcance e o desenvolvimento de novos projetos.
+
+# Propaganda 
+Um dos aspectos mais impactantes do sistema capitalista é o poder persuasivo de sua propaganda. É notável como a maioria das mensagens publicitárias busca diretamente mexer com as emoções das pessoas, levando-as a um estado de desejo e impulso de consumo. Gradualmente, essa constante exposição à propaganda influencia a forma como as pessoas veem o mundo, fazendo-as acreditar que o status social e a felicidade estão intrinsecamente ligados ao ato de consumir.
+
+A publicidade habilmente constrói narrativas que nos instigam a buscar a satisfação pessoal e a realização através da aquisição de bens materiais. Ela nos bombardeia com mensagens que associam produtos e serviços a emoções positivas, como amor, sucesso, pertencimento e felicidade. Essa estratégia visa criar um vínculo emocional entre os consumidores e as marcas, impulsionando um ciclo constante de compra e consumo.
+
+No entanto, esse enfoque excessivo no consumismo acaba por moldar indivíduos em uma mentalidade individualista, em que a busca pelo próprio benefício se sobrepõe à consideração pelos outros e até mesmo pela própria saúde emocional e bem-estar. A sociedade fica imersa em uma cultura de competição desenfreada, em que as pessoas são incentivadas a explorar os outros e a si mesmas em busca de vantagens pessoais.
+
+Esse comportamento individualista é prejudicial tanto para as relações interpessoais quanto para a sociedade como um todo. O afastamento da empatia e cooperação leva à fragmentação social, aumentando as desigualdades e minando a solidariedade necessária para enfrentar os desafios coletivos.
+
+Na nossa ideologia, reconhecemos o poder da propaganda como uma ferramenta de influência e comunicação. No entanto, buscamos utilizá-la de forma totalmente diferente do que é tradicionalmente empregado. A propaganda em nosso contexto é uma ferramenta para disseminar valores fundamentais, como empatia, cooperação, busca pelo bem comum, consumo consciente e humildade. 
+
+# Cooperativas com objetivo social
+No capitalismo as empresas tem objetivo de lucro, isso gera diversos efeitos colaterais que nem sempre são bons. 
 
 # Ações e Compromissos: 
 Esta seção é dedicada às ações práticas que você propõe para alcançar os objetivos do manifesto. Apresente ideias, projetos ou iniciativas concretas que possam ser implementadas para promover a mudança.
