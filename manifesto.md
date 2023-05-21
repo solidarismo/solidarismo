@@ -13,10 +13,10 @@ https://linktr.ee/irmandade_caminho_da_ascensao
 
 # Valores: 
 - Aperfeiçoamento individual e coletivo
-- Empatia
-- Cooperação
+- Solidariedade e cooperação
 - Ciência
 - Liberdade
+- Empatia
 - Humildade
 - Equidade e justiça social
 
