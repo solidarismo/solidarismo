@@ -8,6 +8,9 @@ Neste manifesto, buscamos explorar os valores, princípios e ações necessário
 
 Convidamos você a se juntar a nós nessa jornada de transformação e construção de uma sociedade mais justa, empática e sustentável. Juntos, podemos contribuir para mudar a realidade, diminuir o ódio, a desigualdade e o hiperconsumo. Acreditamos que cada pequeno passo em direção a essa visão coletiva é fundamental, e encorajamos você a fazer parte dessa mudança positiva. Junte-se a nós!
 
+# Contato
+https://linktr.ee/irmandade_caminho_da_ascensao
+
 # Valores: 
 - Aperfeiçoamento individual e coletivo
 - Empatia
@@ -26,6 +29,7 @@ Convidamos você a se juntar a nós nessa jornada de transformação e construç
 Nosso objetivo é estabelecer uma comunicação poderosa que seja capaz de desintoxicar as pessoas de ideologias de ódio, do hiperconsumo e da concentração de poder. Buscamos atrair mais pessoas para nossos grupos, assim aumentando nosso alcance e o desenvolvimento de novos projetos.
 
 # Propaganda 
+
 Um dos aspectos mais impactantes do sistema capitalista é o poder persuasivo de sua propaganda. É notável como a maioria das mensagens publicitárias busca diretamente mexer com as emoções das pessoas, levando-as a um estado de desejo e impulso de consumo. Gradualmente, essa constante exposição à propaganda influencia a forma como as pessoas veem o mundo, fazendo-as acreditar que o status social e a felicidade estão intrinsecamente ligados ao ato de consumir.
 
 A publicidade habilmente constrói narrativas que nos instigam a buscar a satisfação pessoal e a realização através da aquisição de bens materiais. Ela nos bombardeia com mensagens que associam produtos e serviços a emoções positivas, como amor, sucesso, pertencimento e felicidade. Essa estratégia visa criar um vínculo emocional entre os consumidores e as marcas, impulsionando um ciclo constante de compra e consumo.
@@ -37,10 +41,31 @@ Esse comportamento individualista é prejudicial tanto para as relações interp
 Na nossa ideologia, reconhecemos o poder da propaganda como uma ferramenta de influência e comunicação. No entanto, buscamos utilizá-la de forma totalmente diferente do que é tradicionalmente empregado. A propaganda em nosso contexto é uma ferramenta para disseminar valores fundamentais, como empatia, cooperação, busca pelo bem comum, consumo consciente e humildade. 
 
 # Cooperativas com objetivo social
-No capitalismo as empresas tem objetivo de lucro, isso gera diversos efeitos colaterais que nem sempre são bons. 
 
-# Ações e Compromissos: 
-Esta seção é dedicada às ações práticas que você propõe para alcançar os objetivos do manifesto. Apresente ideias, projetos ou iniciativas concretas que possam ser implementadas para promover a mudança.
+No sistema capitalista atual, o objetivo principal das empresas é a busca pelo lucro, o que muitas vezes resulta em efeitos colaterais indesejáveis para a sociedade. No entanto, em nossa ideologia, defendemos uma abordagem diferente por meio da promoção e estímulo à criação de cooperativas com um objetivo social.
+
+Nossa proposta é que as cooperativas sejam pautadas por princípios de transparência, automação e realocação dos trabalhadores conforme necessário. Reconhecemos que mudanças no mercado e avanços tecnológicos podem demandar a reestruturação das tarefas e funções dos trabalhadores. No entanto, diferentemente do modelo capitalista tradicional, os trabalhadores realocados não terão seus ganhos reduzidos. Em vez disso, serão redirecionados para outras áreas ou oferecidos cursos preparatórios para aprimoramento profissional, permitindo que se adaptem às novas demandas.
+
+Além disso, nossa ideologia prioriza a contratação de membros de nossa própria comunidade ideológica para preencher vagas nas cooperativas. Ao valorizar e apoiar os membros de nossa comunidade, criamos um ambiente de confiança e cooperação mútua. Essa preferência na contratação fortalece os laços entre os membros e fortalece a visão e os princípios que compartilhamos.
+
+Ao promover cooperativas com objetivos sociais, estamos construindo uma alternativa ao modelo capitalista tradicional, buscando equilibrar a necessidade de sustentabilidade econômica com a preocupação com o bem-estar dos trabalhadores e o impacto social positivo. Através dessa abordagem, esperamos criar um ambiente de trabalho mais humano, colaborativo e alinhado com nossos valores de justiça, igualdade e solidariedade.
+
+# Ações restritas para trabalhadores
+
+Na nossa nova ideologia, valorizamos e incentivamos a participação ativa e o envolvimento dos trabalhadores nas cooperativas. Com base nisso, uma das propostas centrais é a emissão de ações restritas aos membros da cooperativa. Essas ações seriam exclusivamente reservadas aos trabalhadores, proporcionando-lhes a oportunidade de se tornarem acionistas e compartilharem dos benefícios econômicos da organização.
+
+Ao adquirir ações da cooperativa, os trabalhadores se tornam verdadeiros coproprietários, com direito a participar das decisões estratégicas e desfrutar dos lucros gerados coletivamente. Essa abordagem fortalece o senso de pertencimento e a conexão entre os trabalhadores e a cooperativa, promovendo uma cultura de engajamento e colaboração.
+
+Além disso, as ações restritas aos trabalhadores incentivam a estabilidade e a longevidade da cooperativa, uma vez que os próprios membros são incentivados a permanecer e investir no sucesso de longo prazo da organização. Essa medida também ajuda a evitar a concentração excessiva de poder e recursos nas mãos de poucos, promovendo uma distribuição mais equitativa dos benefícios econômicos e fortalecendo os princípios de justiça e igualdade social que embasam nossa ideologia.
+
+Acreditamos que ao estabelecer esse modelo de propriedade compartilhada, as cooperativas se tornam espaços de cooperação e solidariedade, onde todos os trabalhadores têm voz e podem contribuir ativamente para a construção de um ambiente de trabalho mais justo e próspero. As ações restritas aos trabalhadores são uma manifestação concreta do nosso compromisso em promover a participação ativa e a igualdade de oportunidades dentro das cooperativas, reforçando os laços de solidariedade e fortalecendo a base econômica e social de nossa ideologia.
+
+# Engajamento político
+Devemos ajudar a esclarecer as pessoas sobre quais políticos são menos piores. Assim ajudando a melhorar aos poucos nossa democracia.
+
+# Boicote a empresas 
+Devemos boicotar empresas que exploram e prejudicam nossa sociedade. 
+https://github.com/Neimar-br/nova_ideologia/blob/main/boicote.md
 
 # Mobilização e Engajamento:
 Descreva como você planeja mobilizar outras pessoas e envolvê-las na causa. Discuta estratégias de engajamento, colaboração e conscientização para alcançar um impacto maior.
