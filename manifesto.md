@@ -67,6 +67,9 @@ Devemos ajudar a esclarecer as pessoas sobre quais políticos são menos piores.
 Devemos boicotar empresas que exploram e prejudicam nossa sociedade. 
 https://github.com/Neimar-br/nova_ideologia/blob/main/boicote.md
 
+# Moeda social
+- Esboço = ideia de moeda social que seria usada pelos integrantes para promover a economia interna, talvez poderia ter um rendimento mensal, cash-back, politica monetaria de helicoptero... Algo para o futuro, precisa de análises técnicas... 
+
 # Mobilização e Engajamento:
 Descreva como você planeja mobilizar outras pessoas e envolvê-las na causa. Discuta estratégias de engajamento, colaboração e conscientização para alcançar um impacto maior.
 
