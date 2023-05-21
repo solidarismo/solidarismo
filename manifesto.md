@@ -1,6 +1,6 @@
 # Nova ideologia (ainda estamos escolhendo o nome)
 
-# Introdução:
+# Introdução
 
 À medida que o tempo avança, a humanidade testemunha um crescente acúmulo de capital e aumento da produtividade. No entanto, apesar das melhorias graduais, é alarmante constatar que cerca de um quarto da população mundial ainda vive em condições de extrema miséria. O que está faltando para mudar essa realidade? Será que nos falta alguma tecnologia ou avanço científico? A resposta, sem dúvida, reside em nossa falta de organização, vontade política e engajamento social.
 
