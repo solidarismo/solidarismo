@@ -19,7 +19,7 @@ Convidamos você a se juntar a nós nessa jornada de transformação e construç
 
 # Contexto
 
-![image](https://github.com/Neimar-br/nova_ideologia/assets/134176319/d8ad9852-17fd-4c7d-aee7-2e635bc7a72a)
+![image](https://github.com/Neimar-br/nova_ideologia/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
 
 
 # Objetivos e Propósitos:
