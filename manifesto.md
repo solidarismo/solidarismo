@@ -31,8 +31,9 @@ https://linktr.ee/irmandade_caminho_da_ascensao
 ![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
 
 
-# Objetivos e Propósitos:
-Nosso objetivo é estabelecer uma comunicação poderosa que seja capaz de desintoxicar as pessoas de ideologias de ódio, do hiperconsumo e da concentração de poder. Buscamos atrair mais pessoas para nossos grupos, assim aumentando nosso alcance e o desenvolvimento de novos projetos.
+# Objetivos
+
+Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa ideologia será uma "ponte" para um movimento futuro que este sim poderá superar o capitalismo por completo.
 
 # Propaganda 
 
@@ -76,8 +77,8 @@ https://github.com/Neimar-br/solidarismo/blob/main/boicote.md
 # Moeda social
 Esboço = ideia de moeda social que seria usada pelos integrantes para promover a economia interna, talvez poderia ter um rendimento mensal, cash-back, politica monetaria de helicoptero... Algo para o futuro, precisa de análises técnicas... 
 
-# Mobilização e Engajamento:
+# Mobilização e Engajamento
 Descreva como você planeja mobilizar outras pessoas e envolvê-las na causa. Discuta estratégias de engajamento, colaboração e conscientização para alcançar um impacto maior.
 
-# Conclusão:
+# Conclusão
 Encerre o manifesto reafirmando seus princípios e objetivos principais. Inspire os leitores a se unirem à causa, compartilhando sua visão para o futuro e o impacto positivo que você espera alcançar.
