@@ -11,11 +11,9 @@ Convidamos você a se juntar a nós nessa jornada de transformação e construç
 # Contato
 https://linktr.ee/irmandade_caminho_da_ascensao
 
-# Rascunho - Próximos ajustes do manifesto
- - Deixar mais claro que a estraégia é crescer dentro do sistema politico/economico vigente
- - Não é objetivo atingir todas as pessoas, mas sim as que se encaixam nos valores da ideologia
- - Objetivo é organizar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação, ser uma "ponte" para gestar o sistema que de fato vai superar o capitalismo.
- - Lembrar as pessoas que devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
+# Objetivos
+
+Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa ideologia será uma "ponte" para um movimento futuro que este sim poderá superar o capitalismo por completo.
 
 # Valores: 
 - Aperfeiçoamento individual e coletivo
@@ -26,14 +24,17 @@ https://linktr.ee/irmandade_caminho_da_ascensao
 - Humildade
 - Equidade e justiça social
 
+# Rascunho - Próximos ajustes do manifesto
+ - Deixar mais claro que a estraégia é crescer dentro do sistema politico/economico vigente
+ - Não é objetivo atingir todas as pessoas, mas sim as que se encaixam nos valores da ideologia
+ - Objetivo é organizar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação, ser uma "ponte" para gestar o sistema que de fato vai superar o capitalismo.
+ - Lembrar as pessoas que devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
+
 # Contexto
 
 ![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
 
 
-# Objetivos
-
-Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa ideologia será uma "ponte" para um movimento futuro que este sim poderá superar o capitalismo por completo.
 
 # Propaganda 
 
