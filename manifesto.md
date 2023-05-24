@@ -70,6 +70,13 @@ Ao promover cooperativas com objetivos sociais, estamos construindo uma alternat
 
 Todas essas ações visam melhorar a produtividade geral do meio de produção, reduzir a alienação do trabalhador e aumentar os ganhos totais. A proposta de salários iguais para todos é contraproducente e contradiz o princípio de equidade. Aqueles que contribuem mais para a sociedade devem ser recompensados com maiores ganhos, porém, disparidades excessivas, como as existentes atualmente, não devem ser permitidas. Uma abordagem seria estabelecer um limite de 10 vezes o menor salário como máximo para os ganhos, garantindo assim maior justiça. Também poderíamos considerar a implementação de uma taxa exponencial progressiva com base no salário, onde aqueles que recebem mais contribuiriam proporcionalmente mais, como exemplificado por uma taxa de 10 para um salário de 2500, 300 para um salário de 4000 e 2000 para um salário de 9000.
 
+Uma ideia interessante pensando em atingir o máximo global de todas as cooperativas do grupo pode ser uma distribuição de sobras levando em conta as sobras de todas as cooperativas do grupo, isso inevitavelmente faria com que as pessoas se preocupassem com todo o ambiente cooperativista e não apenas na cooperativa que atuam. 
+
+Resumindo as ideias a composição dos rendimentos dos cooperados deveria ser uma função assim: 
+ganhos = (ganhos fixos da sua função + ganhos variaveis da performance da sua cooperativa + ganhos variaveis da performance de todo o grupo cooperativo) 
+taxa = f_taxa_exponencial_progressiva(ganhos)
+vaor_final = ganhos - taxa
+
 # Ações restritas para trabalhadores
 
 No solidarismo, valorizamos e incentivamos a participação ativa e o envolvimento dos trabalhadores nas cooperativas. Com base nisso, uma das propostas centrais é a emissão de ações restritas aos membros da cooperativa. Essas ações seriam exclusivamente reservadas aos trabalhadores, proporcionando-lhes a oportunidade de se tornarem acionistas e compartilharem dos benefícios econômicos da organização.
