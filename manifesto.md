@@ -30,6 +30,7 @@ https://linktr.ee/irmandade_caminho_da_ascensao
 Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa ideologia será uma "ponte" para um movimento futuro que este sim poderá superar o sistema econômico e político atual.
 
 <h2 id="valores">Valores</h2>
+
 - Aperfeiçoamento individual e coletivo
 - Solidariedade e cooperação
 - Ciência
