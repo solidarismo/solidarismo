@@ -41,7 +41,10 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 | Não exige tomada do poder | Exige tomada do poder |
 | Sem revolução | Revolução causa conflitos |
 | Apenas para quem quiser | Impõe o sistema a todos |
-
+| Atualmente viável | Atualmente inviável |
+| Incentiva a participação ativa da sociedade | Estado como agente central na organização da economia |
+| Propriedade privada gerida por cooperados| Propriedade estatal - gerida pelo estado |
+| Pode adotar uma abordagem mais descentralizada e baseada em comunidades locais	| Tende a ser mais centralizado e planejado pelo Estado |
 # Propaganda 
 
 Um dos aspectos mais impactantes do sistema capitalista é o poder persuasivo de sua propaganda. É notável como a maioria das mensagens publicitárias busca diretamente mexer com as emoções das pessoas, levando-as a um estado de desejo e impulso de consumo. Gradualmente, essa constante exposição à propaganda influencia a forma como as pessoas veem o mundo, fazendo-as acreditar que o status social e a felicidade estão intrinsecamente ligados ao ato de consumir.
