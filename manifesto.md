@@ -1,6 +1,20 @@
 # Solidarismo
 
-# Introdução
+ # Índice
+  <li><a href="#introdução">Introdução</a></li>
+  <li><a href="#contato">Contato</a></li>
+  <li><a href="#objetivos">Objetivos</a></li>
+  <li><a href="#valores">Valores</a></li>
+  <li><a href="#rascunho">Rascunho - Próximos ajustes do manifesto</a></li>
+  <li><a href="#diferencas">Diferenças para o socialismo</a></li>
+  <li><a href="#propaganda">Propaganda</a></li>
+  <li><a href="#engajamento-politico">Engajamento político</a></li>
+  <li><a href="#boicote">Boicote a empresas</a></li>
+  <li><a href="#moeda">Moeda social</a></li>
+  <li><a href="#mobilizacao">Mobilização e Engajamento</a></li>
+  <li><a href="#conclusão">Conclusão</a></li>
+
+<h2 id="introdução">Introdução</h2>
 
 À medida que o tempo avança, a humanidade testemunha um crescente acúmulo de capital e aumento da produtividade. No entanto, apesar das melhorias graduais, é alarmante constatar que cerca de um quarto da população mundial ainda vive em condições de extrema miséria. O que está faltando para mudar essa realidade? Será que nos falta alguma tecnologia ou avanço científico? A resposta, sem dúvida, reside em nossa falta de organização, vontade política e engajamento social.
 
@@ -8,14 +22,14 @@ Neste manifesto, buscamos explorar os valores, princípios e ações necessário
 
 Convidamos você a se juntar a nós nessa jornada de transformação e construção de uma sociedade mais justa, empática e sustentável. Juntos, podemos contribuir para mudar a realidade, diminuir o ódio, a desigualdade e o hiperconsumo. Acreditamos que cada pequeno passo em direção a essa visão coletiva é fundamental, e encorajamos você a fazer parte dessa mudança positiva. Junte-se a nós!
 
-# Contato
+<h2 id="contato">Contato</h2>
 https://linktr.ee/irmandade_caminho_da_ascensao
 
-# Objetivos
+<h2 id="objetivos">Objetivos</h2>
 
 Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa ideologia será uma "ponte" para um movimento futuro que este sim poderá superar o sistema econômico e político atual.
 
-# Valores: 
+<h2 id="valores">Valores</h2>
 - Aperfeiçoamento individual e coletivo
 - Solidariedade e cooperação
 - Ciência
@@ -24,13 +38,13 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 - Humildade
 - Equidade e justiça social
 
-# Rascunho - Próximos ajustes do manifesto
+<h2 id="rascunho">Rascunho - Próximos ajustes do manifesto</h2>
  - Deixar mais claro que a estraégia é crescer dentro do sistema politico/economico vigente
  - Não é objetivo atingir todas as pessoas, mas sim as que se encaixam nos valores da ideologia
  - Objetivo é organizar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação, ser uma "ponte" para gestar o sistema que de fato vai superar o capitalismo.
  - Lembrar as pessoas que devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
 
-# Diferenças para o socialismo
+<h2 id="diferencas">Diferenças para o socialismo</h2>
 
 | Solidarismo | Socialismo |
 |-----|------|
@@ -42,7 +56,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 | Propriedade privada gerida por cooperados| Propriedade estatal - gerida pelo estado |
 | Pode adotar uma abordagem mais descentralizada e baseada em comunidades locais	| Tende a ser mais centralizado e planejado pelo Estado |
 
-# Propaganda 
+<h2 id="propaganda">Propaganda</h2> 
 
 ![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
 
@@ -56,7 +70,7 @@ Esse comportamento individualista é prejudicial tanto para as relações interp
 
 Reconhecemos o poder da propaganda como uma ferramenta de influência e comunicação. No entanto, buscamos utilizá-la de forma totalmente diferente do que é tradicionalmente empregado. A propaganda em nosso contexto é uma ferramenta para disseminar valores fundamentais, como empatia, cooperação, busca pelo bem comum, consumo consciente e humildade. 
 
-# Cooperativas com objetivo social
+<h2 id="cooperativas">Cooperativas com objetivo social</h2>#
 
 No sistema capitalista atual, o objetivo principal das empresas é a busca pelo lucro, o que muitas vezes resulta em efeitos colaterais indesejáveis para a sociedade. No entanto, defendemos uma abordagem diferente por meio da promoção e estímulo à criação de cooperativas com um objetivo social.
 
@@ -79,7 +93,7 @@ taxa = f_taxa_exponencial_progressiva(ganhos)
 
 valor_final = ganhos - taxa
 
-# Ações restritas para trabalhadores
+<h2 id="acoes">Ações restritas para trabalhadores</h2># 
 
 No solidarismo, valorizamos e incentivamos a participação ativa e o envolvimento dos trabalhadores nas cooperativas. Com base nisso, uma das propostas centrais é a emissão de ações restritas aos membros da cooperativa. Essas ações seriam exclusivamente reservadas aos trabalhadores, proporcionando-lhes a oportunidade de se tornarem acionistas e compartilharem dos benefícios econômicos da organização.
 
@@ -89,18 +103,19 @@ Além disso, as ações restritas aos trabalhadores incentivam a estabilidade e 
 
 Acreditamos que ao estabelecer esse modelo de propriedade compartilhada, as cooperativas se tornam espaços de cooperação e solidariedade, onde todos os trabalhadores têm voz e podem contribuir ativamente para a construção de um ambiente de trabalho mais justo e próspero. As ações restritas aos trabalhadores são uma manifestação concreta do nosso compromisso em promover a participação ativa e a igualdade de oportunidades dentro das cooperativas, reforçando os laços de solidariedade e fortalecendo a base econômica e social do solidarismo.
 
-# Engajamento político
+<h2 id="engajamento-politico">Engajamento político</h2>
 Devemos ajudar a esclarecer as pessoas sobre quais políticos são menos piores. Assim ajudando a melhorar aos poucos nossa democracia.
 
-# Boicote a empresas 
+<h2 id="boicote">Boicote a empresas</h2>
 Devemos boicotar empresas que exploram e prejudicam nossa sociedade. 
 https://github.com/Neimar-br/solidarismo/blob/main/boicote.md
 
-# Moeda social
+<h2 id="moeda">Moeda social</h2>
 Esboço = ideia de moeda social que seria usada pelos integrantes para promover a economia interna, talvez poderia ter um rendimento mensal, cash-back, politica monetaria de helicoptero... Algo para o futuro, precisa de análises técnicas... 
 
-# Mobilização e Engajamento
+<h2 id="mobilizacao">Mobilização e Engajamento</h2>
+
 Descreva como você planeja mobilizar outras pessoas e envolvê-las na causa. Discuta estratégias de engajamento, colaboração e conscientização para alcançar um impacto maior.
 
-# Conclusão
+<h2 id="conclusao">Conclusão</h2>
 Encerre o manifesto reafirmando seus princípios e objetivos principais. Inspire os leitores a se unirem à causa, compartilhando sua visão para o futuro e o impacto positivo que você espera alcançar.
