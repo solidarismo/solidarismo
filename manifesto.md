@@ -30,10 +30,6 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
  - Objetivo é organizar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação, ser uma "ponte" para gestar o sistema que de fato vai superar o capitalismo.
  - Lembrar as pessoas que devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
 
-# Contexto
-
-![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
-
 # Diferenças para o socialismo
 
 | Solidarismo | Socialismo |
@@ -47,6 +43,8 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 | Pode adotar uma abordagem mais descentralizada e baseada em comunidades locais	| Tende a ser mais centralizado e planejado pelo Estado |
 
 # Propaganda 
+
+![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
 
 Um dos aspectos mais impactantes do sistema capitalista é o poder persuasivo de sua propaganda. É notável como a maioria das mensagens publicitárias busca diretamente mexer com as emoções das pessoas, levando-as a um estado de desejo e impulso de consumo. Gradualmente, essa constante exposição à propaganda influencia a forma como as pessoas veem o mundo, fazendo-as acreditar que o status social e a felicidade estão intrinsecamente ligados ao ato de consumir.
 
