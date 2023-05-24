@@ -70,7 +70,7 @@ Esse comportamento individualista é prejudicial tanto para as relações interp
 
 Reconhecemos o poder da propaganda como uma ferramenta de influência e comunicação. No entanto, buscamos utilizá-la de forma totalmente diferente do que é tradicionalmente empregado. A propaganda em nosso contexto é uma ferramenta para disseminar valores fundamentais, como empatia, cooperação, busca pelo bem comum, consumo consciente e humildade. 
 
-<h2 id="cooperativas">Cooperativas com objetivo social</h2>#
+<h2 id="cooperativas">Cooperativas com objetivo social</h2>
 
 No sistema capitalista atual, o objetivo principal das empresas é a busca pelo lucro, o que muitas vezes resulta em efeitos colaterais indesejáveis para a sociedade. No entanto, defendemos uma abordagem diferente por meio da promoção e estímulo à criação de cooperativas com um objetivo social.
 
@@ -93,7 +93,7 @@ taxa = f_taxa_exponencial_progressiva(ganhos)
 
 valor_final = ganhos - taxa
 
-<h2 id="acoes">Ações restritas para trabalhadores</h2># 
+<h2 id="acoes">Ações restritas para trabalhadores</h2>
 
 No solidarismo, valorizamos e incentivamos a participação ativa e o envolvimento dos trabalhadores nas cooperativas. Com base nisso, uma das propostas centrais é a emissão de ações restritas aos membros da cooperativa. Essas ações seriam exclusivamente reservadas aos trabalhadores, proporcionando-lhes a oportunidade de se tornarem acionistas e compartilharem dos benefícios econômicos da organização.
 
