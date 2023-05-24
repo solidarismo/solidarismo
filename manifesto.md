@@ -40,6 +40,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 - Equidade e justiça social
 
 <h2 id="rascunho">Rascunho - Próximos ajustes do manifesto</h2>
+
  - Deixar mais claro que a estraégia é crescer dentro do sistema politico/economico vigente
  - Não é objetivo atingir todas as pessoas, mas sim as que se encaixam nos valores da ideologia
  - Objetivo é organizar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação, ser uma "ponte" para gestar o sistema que de fato vai superar o capitalismo.
