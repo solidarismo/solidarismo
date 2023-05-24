@@ -73,8 +73,12 @@ Todas essas ações visam melhorar a produtividade geral do meio de produção, 
 Uma ideia interessante pensando em atingir o máximo global de todas as cooperativas do grupo pode ser uma distribuição de sobras levando em conta as sobras de todas as cooperativas do grupo, isso inevitavelmente faria com que as pessoas se preocupassem com todo o ambiente cooperativista e não apenas na cooperativa que atuam. 
 
 Resumindo as ideias a composição dos rendimentos dos cooperados deveria ser uma função assim: 
+
+
 ganhos = (ganhos fixos da sua função + ganhos variaveis da performance da sua cooperativa + ganhos variaveis da performance de todo o grupo cooperativo) 
+
 taxa = f_taxa_exponencial_progressiva(ganhos)
+
 vaor_final = ganhos - taxa
 
 # Ações restritas para trabalhadores
