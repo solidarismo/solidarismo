@@ -12,6 +12,7 @@
   <li><a href="#engajamento-politico">Engajamento político</a></li>
   <li><a href="#boicote">Boicote a empresas</a></li>
   <li><a href="#moeda">Moeda social</a></li>
+  <li><a href="#comunidades">Comunidades intencionais</a></li>
   <li><a href="#mobilizacao">Mobilização e Engajamento</a></li>
   <li><a href="#conclusão">Conclusão</a></li>
 
@@ -119,6 +120,10 @@ https://github.com/solidarismo/solidarismo/blob/main/boicote.md
 
 <h2 id="moeda">Moeda social</h2>
 Esboço = ideia de moeda social que seria usada pelos integrantes para promover a economia interna, talvez poderia ter um rendimento mensal, cash-back, politica monetaria de helicoptero... Algo para o futuro, precisa de análises técnicas... 
+
+<h2 id="comunidades">Comunidades intencionais</h2>
+Rascunho. Organizar e incentivar comunidades intencionais como east wind society 
+https://www.youtube.com/watch?v=NfCwQPta-a0
 
 <h2 id="mobilizacao">Mobilização e Engajamento</h2>
 
