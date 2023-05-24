@@ -110,7 +110,7 @@ Devemos ajudar a esclarecer as pessoas sobre quais políticos são menos piores.
 
 <h2 id="boicote">Boicote a empresas</h2>
 Devemos boicotar empresas que exploram e prejudicam nossa sociedade. 
-https://github.com/Neimar-br/solidarismo/blob/main/boicote.md
+https://github.com/solidarismo/solidarismo/blob/main/boicote.md
 
 <h2 id="moeda">Moeda social</h2>
 Esboço = ideia de moeda social que seria usada pelos integrantes para promover a economia interna, talvez poderia ter um rendimento mensal, cash-back, politica monetaria de helicoptero... Algo para o futuro, precisa de análises técnicas... 
