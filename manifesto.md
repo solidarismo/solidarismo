@@ -34,7 +34,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 
 ![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
 
-# Diferenças para o socialismo/comunismo
+# Diferenças para o socialismo
 
 | Solidarismo | Socialismo |
 |-----|------|
