@@ -5,6 +5,7 @@
   <li><a href="#contato">Contato</a></li>
   <li><a href="#objetivos">Objetivos</a></li>
   <li><a href="#valores">Valores</a></li>
+  <li><a href="#roteiro">Roteiro -roadmap</a></li>
   <li><a href="#rascunho">Rascunho - Próximos ajustes do manifesto</a></li>
   <li><a href="#diferencas">Diferenças para o socialismo</a></li>
   <li><a href="#propaganda">Propaganda</a></li>
@@ -38,6 +39,10 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 - Empatia
 - Humildade
 - Equidade e justiça social
+
+<h2 id="roteiro">Roteiro - Roadmap</h2>
+
+![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/roteiro.jpg)
 
 <h2 id="rascunho">Rascunho - Próximos ajustes do manifesto</h2>
 
