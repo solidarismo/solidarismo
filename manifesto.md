@@ -79,7 +79,7 @@ ganhos = (ganhos fixos da sua função + ganhos variaveis da performance da sua 
 
 taxa = f_taxa_exponencial_progressiva(ganhos)
 
-vaor_final = ganhos - taxa
+valor_final = ganhos - taxa
 
 # Ações restritas para trabalhadores
 
