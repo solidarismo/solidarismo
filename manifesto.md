@@ -45,6 +45,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 | Incentiva a participação ativa da sociedade | Estado como agente central na organização da economia |
 | Propriedade privada gerida por cooperados| Propriedade estatal - gerida pelo estado |
 | Pode adotar uma abordagem mais descentralizada e baseada em comunidades locais	| Tende a ser mais centralizado e planejado pelo Estado |
+
 # Propaganda 
 
 Um dos aspectos mais impactantes do sistema capitalista é o poder persuasivo de sua propaganda. É notável como a maioria das mensagens publicitárias busca diretamente mexer com as emoções das pessoas, levando-as a um estado de desejo e impulso de consumo. Gradualmente, essa constante exposição à propaganda influencia a forma como as pessoas veem o mundo, fazendo-as acreditar que o status social e a felicidade estão intrinsecamente ligados ao ato de consumir.
@@ -61,11 +62,13 @@ Reconhecemos o poder da propaganda como uma ferramenta de influência e comunica
 
 No sistema capitalista atual, o objetivo principal das empresas é a busca pelo lucro, o que muitas vezes resulta em efeitos colaterais indesejáveis para a sociedade. No entanto, defendemos uma abordagem diferente por meio da promoção e estímulo à criação de cooperativas com um objetivo social.
 
-Nossa proposta é que as cooperativas sejam pautadas por princípios de transparência, automação e realocação dos trabalhadores conforme necessário. Reconhecemos que mudanças no mercado e avanços tecnológicos podem demandar a reestruturação das tarefas e funções dos trabalhadores. No entanto, diferentemente do modelo capitalista tradicional, os trabalhadores realocados não terão seus ganhos reduzidos. Em vez disso, serão redirecionados para outras áreas ou oferecidos cursos preparatórios para aprimoramento profissional, permitindo que se adaptem às novas demandas.
+Nossa proposta é que as cooperativas sejam pautadas por princípios de transparência, automação e realocação dos trabalhadores conforme necessário. Reconhecemos que mudanças no mercado e avanços tecnológicos podem demandar a reestruturação das tarefas e funções dos trabalhadores. No entanto, diferentemente do modelo capitalista tradicional, os trabalhadores realocados não terão seus ganhos reduzidos. Em vez disso, serão redirecionados para outras áreas ou oferecidos cursos preparatórios para aprimoramento profissional, permitindo que se adaptem às novas demandas. 
 
 Além disso, priorizamos a contratação de membros de nossa própria comunidade ideológica para preencher vagas nas cooperativas. Ao valorizar e apoiar os membros de nossa comunidade, criamos um ambiente de confiança e cooperação mútua. Essa preferência na contratação fortalece os laços entre os membros e fortalece a visão e os princípios que compartilhamos.
 
 Ao promover cooperativas com objetivos sociais, estamos construindo uma alternativa ao modelo capitalista tradicional, buscando equilibrar a necessidade de sustentabilidade econômica com a preocupação com o bem-estar dos trabalhadores e o impacto social positivo. Através dessa abordagem, esperamos criar um ambiente de trabalho mais humano, colaborativo e alinhado com nossos valores de justiça, igualdade e solidariedade.
+
+Todas essas ações visam melhorar a produtividade geral do meio de produção, reduzir a alienação do trabalhador e aumentar os ganhos totais. A proposta de salários iguais para todos é contraproducente e contradiz o princípio de equidade. Aqueles que contribuem mais para a sociedade devem ser recompensados com maiores ganhos, porém, disparidades excessivas, como as existentes atualmente, não devem ser permitidas. Uma abordagem seria estabelecer um limite de 10 vezes o menor salário como máximo para os ganhos, garantindo assim maior justiça. Também poderíamos considerar a implementação de uma taxa exponencial progressiva com base no salário, onde aqueles que recebem mais contribuiriam proporcionalmente mais, como exemplificado por uma taxa de 10 para um salário de 2500, 300 para um salário de 4000 e 2000 para um salário de 9000.
 
 # Ações restritas para trabalhadores
 
