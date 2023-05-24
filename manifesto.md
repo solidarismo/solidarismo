@@ -34,7 +34,14 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 
 ![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_dinamica_propaganda_sociedade_producao.jpg)
 
+# Diferenças para o comunismo
 
+Existem muitas diferenças 
+| Solidarismo | Socialismo |
+|-----|------|
+| Não exige tomada do poder | Exige tomada do poder |
+| Sem revolução | Revolução causa conflitos |
+| Apenas para quem quiser | Impõe o sistema a todos |
 
 # Propaganda 
 
