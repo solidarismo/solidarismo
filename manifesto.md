@@ -101,6 +101,11 @@ taxa = f_taxa_exponencial_progressiva(ganhos)
 
 valor_final = ganhos - taxa
 
+Abaixo 2 exemplos de distribuição das sobras, o primeiro em um cenário de ótima receita e o segundo onde receita e despesas estão menos favoráveis. 
+
+![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/exemplo_cooperativa_distribuicao.jpg)
+
+
 <h2 id="acoes">Ações restritas para trabalhadores</h2>
 
 No solidarismo, valorizamos e incentivamos a participação ativa e o envolvimento dos trabalhadores nas cooperativas. Com base nisso, uma das propostas centrais é a emissão de ações restritas aos membros da cooperativa. Essas ações seriam exclusivamente reservadas aos trabalhadores, proporcionando-lhes a oportunidade de se tornarem acionistas e compartilharem dos benefícios econômicos da organização.
