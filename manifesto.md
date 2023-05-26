@@ -62,7 +62,6 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 | Apenas para quem quiser | Impõe o sistema a todos |
 | Atualmente viável | Atualmente inviável |
 | Incentiva a participação ativa da sociedade | Estado como agente central na organização da economia |
-| Propriedade privada gerida por cooperados| Propriedade estatal - gerida pelo estado |
 | Pode adotar uma abordagem mais descentralizada e baseada em comunidades locais	| Tende a ser mais centralizado e planejado pelo Estado |
 
 <h2 id="propaganda">Propaganda</h2> 
