@@ -107,7 +107,7 @@ Abaixo 2 exemplos de distribuição das sobras, o primeiro em um cenário de ót
 
 Cenário mais difícil:
 
-![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/exemplo_cooperativa_distribuicao.jpg)
+![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/exemplo_cooperativa_distribuicao_2.jpg)
 
 <h2 id="acoes">Ações restritas para trabalhadores</h2>
 
