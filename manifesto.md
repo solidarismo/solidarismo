@@ -29,7 +29,7 @@ https://linktr.ee/irmandade_caminho_da_ascensao
 
 <h2 id="objetivos">Objetivos</h2>
 
-Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa ideologia será uma "ponte" para um movimento futuro que este sim poderá superar o sistema econômico e político atual.
+Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa é uma ideologia de "transição", será uma "ponte" para chegar, no futuro, a um sistema (talvez o comunismo) que de fato irá superar o sistema político/econômico vigente.
 
 <h2 id="valores">Valores</h2>
 
@@ -48,6 +48,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 <h2 id="rascunho">Rascunho - Próximos ajustes do manifesto</h2>
 
  - Deixar mais claro que a estraégia é crescer dentro do sistema politico/economico vigente
+ - Deixar mais claro o valor de liberdade (ir e vir, liberdade de expressão (proibído racismo, fascismo, etc)).
  - Não é objetivo atingir todas as pessoas, mas sim as que se encaixam nos valores da ideologia
  - Objetivo é organizar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação, ser uma "ponte" para gestar o sistema que de fato vai superar o capitalismo.
  - Lembrar as pessoas que devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
