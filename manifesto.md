@@ -57,6 +57,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 | Solidarismo | Socialismo |
 |-----|------|
 | Não exige tomada do poder | Exige tomada do poder |
+| Promove a gestão cooperativa da propriedade privada | Socialização dos meios de produção - pela força |
 | Sem revolução | Revolução causa conflitos |
 | Apenas para quem quiser | Impõe o sistema a todos |
 | Atualmente viável | Atualmente inviável |
