@@ -5,8 +5,8 @@
   <li><a href="#contato">Contato</a></li>
   <li><a href="#objetivos">Objetivos</a></li>
   <li><a href="#valores">Valores</a></li>
+  <li><a href="#importante">Importante - Tenha em mente que</a></li>
   <li><a href="#roteiro">Roteiro -roadmap</a></li>
-  <li><a href="#rascunho">Rascunho - Próximos ajustes do manifesto</a></li>
   <li><a href="#diferencas">Diferenças para o socialismo</a></li>
   <li><a href="#propaganda">Propaganda</a></li>
   <li><a href="#engajamento-politico">Engajamento político</a></li>
@@ -41,17 +41,18 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 - Humildade
 - Equidade e justiça social
 
+<h2 id="importante">Tenha em mente que</h2>
+
+ - Queremos atingir o máximo de pessoas que consguirmos e que concordem com nossos valores, mas não é nosso objetivo impor a ideologia as pessoas. 
+ - Precisamos nos organizar, formar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação. Apesar de parecer um movimento reformista, essa é uma ideologia de transição, seu ápice será criar as condições necessárias para que de fato outro sistema possa superar o capitalismo.
+ - O valor de liberdade que defendemos é a garantia de ir e vir, liberdade de expressão (que não implique em crimes de racismo, discursos de ódio, perseguição, etc), de poder expressar sua identidade, religiosidade. 
+ - Devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
+ - Em vez de uma revolulção pela força, nossa estratégia é crescer por dentro do sistema politico/economico vigente.
+
 <h2 id="roteiro">Roteiro - Roadmap</h2>
 
 ![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/roteiro.jpg)
 
-<h2 id="rascunho">Rascunho - Próximos ajustes do manifesto</h2>
-
- - Deixar mais claro que a estraégia é crescer dentro do sistema politico/economico vigente
- - Deixar mais claro o valor de liberdade (ir e vir, liberdade de expressão (proibído racismo, fascismo, etc)).
- - Não é objetivo atingir todas as pessoas, mas sim as que se encaixam nos valores da ideologia
- - Objetivo é organizar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação, ser uma "ponte" para gestar o sistema que de fato vai superar o capitalismo.
- - Lembrar as pessoas que devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
 
 <h2 id="diferencas">Diferenças para o socialismo</h2>
 
