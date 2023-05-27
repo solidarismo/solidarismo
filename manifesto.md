@@ -57,7 +57,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 
 <h2 id="diferencas">Diferenças para o socialismo</h2>
 
-Tant o socialismo quanto o solidarismo são ideologias de transição, a grande diferença é nas estratégias e ações utilizadas.
+Tanto o socialismo quanto o solidarismo são ideologias de transição, também tem objetivos similares, a diferença está nas estratégias e ações.
 
 | Solidarismo | Socialismo |
 |-----|------|
