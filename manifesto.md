@@ -48,6 +48,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
  - O valor de liberdade que defendemos é a garantia de ir e vir, liberdade de expressão (que não implique em crimes de racismo, discursos de ódio, perseguição, etc), de poder expressar sua identidade, religiosidade. 
  - Devemos focar nas ideias e nos objetivos que nos unem, pequenas diferenças (de ideias e filosofias) não devem minar nossa organização, precisamos focar no prático e no que é possível.
  - Em vez de uma revolulção pela força, nossa estratégia é crescer por dentro do sistema politico/economico vigente.
+ - Essa não é a elaboração de uma solução perfeita, mas de um progresso e de uma transição possível.
 
 <h2 id="roteiro">Roteiro - Roadmap</h2>
 
