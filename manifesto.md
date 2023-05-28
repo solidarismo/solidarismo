@@ -52,7 +52,12 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 
 <h2 id="roteiro">Roteiro - Roadmap</h2>
 
-![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/roteiro.jpg)
+![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/roteiro2.jpg)
+
+
+Exemplo de organização que idealizamos (ainda em construção)
+
+![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_solidarismo.jpg)
 
 
 <h2 id="diferencas">Diferenças para o socialismo</h2>
