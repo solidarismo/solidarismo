@@ -29,7 +29,7 @@ https://linktr.ee/irmandade_caminho_da_ascensao
 
 <h2 id="objetivos">Objetivos</h2>
 
-Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa é uma ideologia de "transição", será uma "ponte" para chegar, no futuro, a um sistema (talvez o comunismo) que de fato irá superar o sistema político/econômico vigente.
+Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa é uma ideologia de "transição", será uma "ponte" para chegar, no futuro, a um sistema (talvez algo parecido com as ideias do comunismo/anarquismo) que de fato irá superar o sistema político/econômico vigente.
 
 <h2 id="valores">Valores</h2>
 
