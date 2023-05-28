@@ -57,7 +57,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 
 Exemplo de organização que idealizamos (ainda em construção)
 
-![image](https://github.com/Neimar-br/solidarismo/blob/main/imagens/diagrama_solidarismo.jpg)
+
 
 
 <h2 id="diferencas">Diferenças para o socialismo</h2>
