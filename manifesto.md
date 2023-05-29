@@ -1,5 +1,7 @@
 # Solidarismo
 
+Discord <a href="https://discord.gg/j5ADJNUXyd"> https://discord.gg/j5ADJNUXyd</a>
+
  # Índice
   <li><a href="#introdução">Introdução</a></li>
   <li><a href="#contato">Contato</a></li>
