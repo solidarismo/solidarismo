@@ -27,7 +27,8 @@ Neste manifesto, buscamos explorar os valores, princípios e ações necessário
 Convidamos você a se juntar a nós nessa jornada de transformação e construção de uma sociedade mais justa, empática e sustentável. Juntos, podemos contribuir para mudar a realidade, diminuir o ódio, a desigualdade e o hiperconsumo. Acreditamos que cada pequeno passo em direção a essa visão coletiva é fundamental, e encorajamos você a fazer parte dessa mudança positiva. Junte-se a nós!
 
 <h2 id="contato">Contato</h2>
-https://linktr.ee/irmandade_caminho_da_ascensao
+
+Discord <a href="https://discord.gg/j5ADJNUXyd"> https://discord.gg/j5ADJNUXyd</a>
 
 <h2 id="objetivos">Objetivos</h2>
 
