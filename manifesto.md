@@ -46,6 +46,7 @@ Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradag
 
 <h2 id="importante">Tenha em mente que</h2>
 
+ - Este manifesto tem diversas influências, uma das que mais se assemelha é as ideias do anarquista Peter Kropotkin: Ele acreditava na importância das cooperativas como uma forma de organização social e econômica baseada na cooperação voluntária entre os indivíduos, à medida que as pessoas se engajassem em cooperativas autônomas e solidárias, outras instituições hierárquicas e coercitivas iriam aos poucos perder espaço. 
  - Queremos atingir o máximo de pessoas que consguirmos e que concordem com nossos valores, mas não é nosso objetivo impor a ideologia as pessoas. 
  - Precisamos nos organizar, formar grupos para unir e suprir pertencimento as pessoas, combater o ódio, a miséria, a alienação. Apesar de parecer um movimento reformista, essa é uma ideologia de transição, seu ápice será criar as condições necessárias para que de fato outro sistema possa superar o capitalismo.
  - O valor de liberdade que defendemos é a garantia de ir e vir, liberdade de expressão (que não implique em crimes de racismo, discursos de ódio, perseguição, etc), de poder expressar sua identidade, religiosidade. 
@@ -143,7 +144,7 @@ https://github.com/solidarismo/solidarismo/blob/main/boicote.md
 Esboço = ideia de moeda social que seria usada pelos integrantes para promover a economia interna, talvez poderia ter um rendimento mensal, cash-back, politica monetaria de helicoptero... Algo para o futuro, precisa de análises técnicas... 
 
 <h2 id="comunidades">Comunidades intencionais</h2>
-Rascunho. Organizar e incentivar comunidades intencionais como east wind society 
+Rascunho. Organizar e incentivar comunidades intencionais como east wind comunity 
 https://www.youtube.com/watch?v=NfCwQPta-a0
 
 <h2 id="mobilizacao">Mobilização e Engajamento</h2>
