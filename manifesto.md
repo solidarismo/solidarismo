@@ -29,6 +29,7 @@ Convidamos você a se juntar a nós nessa jornada de transformação e construç
 <h2 id="contato">Contato</h2>
 
 Discord <a href="https://discord.gg/j5ADJNUXyd"> https://discord.gg/j5ADJNUXyd</a>
+
 Nossas redes sociais: https://linktr.ee/solidarismo
 
 <h2 id="objetivos">Objetivos</h2>
