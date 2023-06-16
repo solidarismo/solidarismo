@@ -2,10 +2,11 @@
 
 Discord <a href="https://discord.gg/j5ADJNUXyd"> https://discord.gg/j5ADJNUXyd</a>
 
+O Solidarismo é uma nova ideologia de transição que busca uma sociedade mais justa, igualitária e solidária, somos contra a estrutura vigente que explora e aliena o nosso povo. Almejamos mudanças reais na sociedade através da comunicação, mudança cultural, articulação política, modelo econômico de cooperativas, comunidades intencionais. O objetivo final (completando a transição) é superar o capitalismo. Não somos 'adversários' de outras ideologias, somos aliados de todo e qualquer movimento que busque o fim da  miséria e o progresso da humanidade.
+
+
  # Índice
-  <li><a href="#introdução">Introdução</a></li>
   <li><a href="#contato">Contato</a></li>
-  <li><a href="#objetivos">Objetivos</a></li>
   <li><a href="#valores">Valores</a></li>
   <li><a href="#importante">Importante - Tenha em mente que</a></li>
   <li><a href="#roteiro">Roteiro -roadmap</a></li>
@@ -18,23 +19,11 @@ Discord <a href="https://discord.gg/j5ADJNUXyd"> https://discord.gg/j5ADJNUXyd</
   <li><a href="#mobilizacao">Mobilização e Engajamento</a></li>
   <li><a href="#conclusão">Conclusão</a></li>
 
-<h2 id="introdução">Introdução</h2>
-
-À medida que o tempo avança, a humanidade testemunha um crescente acúmulo de capital e aumento da produtividade. No entanto, apesar das melhorias graduais, é alarmante constatar que cerca de um quarto da população mundial ainda vive em condições de extrema miséria. O que está faltando para mudar essa realidade? Será que nos falta alguma tecnologia ou avanço científico? A resposta, sem dúvida, reside em nossa falta de organização, vontade política e engajamento social.
-
-Neste manifesto, buscamos explorar os valores, princípios e ações necessários para construir uma alternativa real dentro do sistema econômico e político vigente. Acreditamos firmemente que, ao propagar uma cultura de cooperação, solidariedade, de consumo consciente, transparência, equidade, poderemos ter uma vida com mais harmonia, prosperidade, felicidade e saúde física e mental.
-
-Convidamos você a se juntar a nós nessa jornada de transformação e construção de uma sociedade mais justa, empática e sustentável. Juntos, podemos contribuir para mudar a realidade, diminuir o ódio, a desigualdade e o hiperconsumo. Acreditamos que cada pequeno passo em direção a essa visão coletiva é fundamental, e encorajamos você a fazer parte dessa mudança positiva. Junte-se a nós!
-
 <h2 id="contato">Contato</h2>
 
 Discord <a href="https://discord.gg/j5ADJNUXyd"> https://discord.gg/j5ADJNUXyd</a>
 
 Nossas redes sociais: https://linktr.ee/solidarismo
-
-<h2 id="objetivos">Objetivos</h2>
-
-Reunir pessoas que compartilham dos nossos valores, fornecendo apoio e camaradagem. Acreditamos no poder da ação, apoiamos iniciativas políticas, econômicas e culturais,  estamos na luta para fazer o possível para resgatar e prevenir que as pessoas caiam em ideologias de ódio e em desinformação. Essa é uma ideologia de "transição", será uma "ponte" para chegar, no futuro, a um sistema (talvez algo parecido com as ideias do comunismo/anarquismo) que de fato irá superar o sistema político/econômico vigente. Essa ideologia não é "adversária" de outros movimentos que buscam a superação do capitalismo, mas sim uma aliada nesse objetivo.
 
 <h2 id="valores">Valores</h2>
 
